@@ -1,0 +1,15 @@
+# ...
+CC=g++-4.8 
+# ...
+CFLAGS= -ggdb -std=c++11
+
+all: exec
+
+exec: main.o data.o
+	$(CC) $(CFLAGS) main.o data.o -o main
+
+
+
+clean:
+	rm -rf *o main
+	

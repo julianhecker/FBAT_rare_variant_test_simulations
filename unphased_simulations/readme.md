@@ -1,4 +1,4 @@
-## This tool simulates family data according to the haplotype data and specifications described in the scenario file.
+## Tool to simulate family data according to the haplotype data and specifications described in the scenario file
 
 #general usage:
 ./main output_folder scenario_name_with_nvars seed scenario_file haplotype_file number_variants number_families number_replications scenario_name (for RV-GDT) number_haplotypes

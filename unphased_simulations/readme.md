@@ -9,8 +9,6 @@
 
 
 
-
-
 #example scenario 1 file
 
 number founder: 2 

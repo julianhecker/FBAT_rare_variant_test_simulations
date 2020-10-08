@@ -10,7 +10,7 @@ int*	i_createVector(int size);
 void	d_destroyVector(double* vector);
 double*	d_createVector(int size);
 
-
+// see also http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/CODES/mt19937ar.c
 struct MersenneTwister
 {
   /* Period parameters */

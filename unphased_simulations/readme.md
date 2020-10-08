@@ -31,5 +31,5 @@ example scenario 1, p=30 variants
 - sex information (for some tools required): 1 2 1
 
 
-**RV-GDT:** He,Z. et al. (2014) Rare-variant extensions of the transmission disequilibrium test: application to autism exome sequence data. Am. J. Hum. Genet., 94, 33–46.
-**gTDT:** Chen,R. et al. (2015) A haplotype-based framework for group-wise transmission/disequilibrium tests for rare variant association analysis. Bioinforma. Oxf. Engl., 31, 1452–1459.
+**RV-GDT:** He,Z. et al. (2014) Rare-variant extensions of the transmission disequilibrium test: application to autism exome sequence data. Am. J. Hum. Genet., 94, 33–46.  
+**gTDT:** Chen,R. et al. (2015) A haplotype-based framework for group-wise transmission/disequilibrium tests for rare variant association analysis. Bioinforma. Oxf. Engl., 31, 1452–1459.  

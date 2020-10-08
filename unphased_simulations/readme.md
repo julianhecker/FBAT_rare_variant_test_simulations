@@ -28,8 +28,11 @@ example scenario 1, p=30 variants
 - indices causal variants (range 1 to nvar): 5 12 26
 - effect sizes causal variants: 1.0319134 0.6319134 0.9115014
 - which members to output (here: all): 1 1 1 
-- sex information (for some tools required): 1 2 1
+- sex information (for some tools required): 1 2 1  
+
+example haplotype file extracted from the 1000 Genomes project (see below).    
 
 
 **RV-GDT:** He,Z. et al. (2017) The Rare-Variant Generalized Disequilibrium Test for Association Analysis of Nuclear and Extended Pedigrees with Application to Alzheimer Disease WGS Data. Am. J. Hum. Genet., 100, 193–204.    
 **gTDT:** Chen,R. et al. (2015) A haplotype-based framework for group-wise transmission/disequilibrium tests for rare variant association analysis. Bioinforma. Oxf. Engl., 31, 1452–1459.  
+**1000 Genomes:** A global reference for human genetic variation, The 1000 Genomes Project Consortium, Nature 526, 68-74 (01 October 2015) doi:10.1038/nature15393  

@@ -16,3 +16,4 @@ example scenario 1 in the manuscript:
 
 **gTDT:** Chen,R. et al. (2015) A haplotype-based framework for group-wise transmission/disequilibrium tests for rare variant association analysis. Bioinforma. Oxf. Engl., 31, 1452–1459.  
 **RV-TDT:** He,Z. et al. (2014) Rare-variant extensions of the transmission disequilibrium test: application to autism exome sequence data. Am. J. Hum. Genet., 94, 33–46.  
+**1000 Genomes:** A global reference for human genetic variation, The 1000 Genomes Project Consortium, Nature 526, 68-74 (01 October 2015) doi:10.1038/nature15393  

@@ -1,4 +1,5 @@
-## tool to perform the haplotype simulation study described in "An exact, unifying framework for rare variant association testing in family-based designs, including higher criticism approaches, SKATs, multivariate and burden tests" (Hecker et al. 2020)
+# haplotype simulations  
+**tool to perform the haplotype simulation study described in "An exact, unifying framework for rare variant association testing in family-based designs, including higher criticism approaches, SKATs, multivariate and burden tests" (Hecker et al. 2020)**
 
 - haps= haplotype file containing the haplotypes for the simulation (nvar=1000, nhaps=1006). Haplotypes were extracted from the EUR set of the 1000 Genomes phase3 dataset.
 - assumes file "haps" is in this same folder. Performs the FBAT tests, as well as gTDT and RV-TDT BRV (see below for references)
